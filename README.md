@@ -38,7 +38,7 @@ I work at the intersection of **data governance**, **data engineering**, **machi
 | 🏅 [Astronomer Certification for Apache Airflow 3 Fundamentals](https://www.credly.com/badges/5eef69f7-5b14-4aaf-9976-7a1a67d539a1/linked_in_profile) | `Apache Airflow` `Pipeline Orchestration` `DAGs` `ETL` `Python` |
 | 🏅 [Microsoft Certified: Fabric Analytics Engineer Associate](https://learn.microsoft.com/en-us/users/salinianbalagan-4502/credentials/7f85a76dbc6382d2) | `Microsoft Fabric` `Power BI` `Data Lakehouse` `KQL` `Data Warehousing` `Spark` |
 | 🏅 [CompTIA Data+](https://www.credly.com/badges/1a690534-2367-4408-8913-b1d5c38a3548/linked_in_profile) | `Data Analytics` `Data Governance` `Data Quality` `Statistics` `Data Visualisation` |
-| 🏅 Snowflake GenAI *(link coming soon)* | `Snowflake` `Generative AI` `LLMs` `Cortex AI` `SQL` |
+| 🏅 Snowflake GenAI  | `Snowflake` `Generative AI` `LLMs` `Cortex AI` `SQL` |
 | 🏅 [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/J93V88FV6L4Q) | `Data Analysis` `SQL` `R` `Tableau` `Data Cleaning` `Data Visualisation` |
 
 ---
